@@ -4,3 +4,8 @@
 
 -   React
 -   Firebase (Clone Database)
+-   framer-motion
+
+### ref
+
+https://github.com/iamshaunjp/firegram
