@@ -8,7 +8,7 @@ function ImageGrid({ setSelectedImg }) {
 	return (
 		<div className='img-grid'>
 			{docs &&
-				docs.map((doc) => (
+				docs.map(doc => (
 					<motion.div
 						className='img-wrap'
 						key={doc.id}
