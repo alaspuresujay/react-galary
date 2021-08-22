@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-galary/static/css/main.da338dfa.chunk.css",
+    "main.js": "/react-galary/static/js/main.b35b523a.chunk.js",
+    "main.js.map": "/react-galary/static/js/main.b35b523a.chunk.js.map",
+    "runtime-main.js": "/react-galary/static/js/runtime-main.23ae5214.js",
+    "runtime-main.js.map": "/react-galary/static/js/runtime-main.23ae5214.js.map",
+    "static/js/2.56fa12cd.chunk.js": "/react-galary/static/js/2.56fa12cd.chunk.js",
+    "static/js/2.56fa12cd.chunk.js.map": "/react-galary/static/js/2.56fa12cd.chunk.js.map",
+    "static/js/3.c88a20c4.chunk.js": "/react-galary/static/js/3.c88a20c4.chunk.js",
+    "static/js/3.c88a20c4.chunk.js.map": "/react-galary/static/js/3.c88a20c4.chunk.js.map",
+    "index.html": "/react-galary/index.html",
+    "static/css/main.da338dfa.chunk.css.map": "/react-galary/static/css/main.da338dfa.chunk.css.map",
+    "static/js/2.56fa12cd.chunk.js.LICENSE.txt": "/react-galary/static/js/2.56fa12cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23ae5214.js",
+    "static/js/2.56fa12cd.chunk.js",
+    "static/css/main.da338dfa.chunk.css",
+    "static/js/main.b35b523a.chunk.js"
+  ]
+}
